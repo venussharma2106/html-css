@@ -1,0 +1,11 @@
+git clone 
+git status
+git pull -> local sync remote
+git checkout -b(new) "brnach"
+git checkout branchname
+
+git add .
+git commit -m "Message"
+
+git push
+
